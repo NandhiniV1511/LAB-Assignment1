@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+/**
+ * Desc: Find the nth number of fibonnaci series in non recursive function
+ * @author NANDHINI V
+ *Date: 22/10/2020
+ */
+public class FibonnaciSeries {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner sc=new Scanner(System.in);
+int n=sc.nextInt();
+
+	}
+
+}

@@ -1,0 +1,18 @@
+
+/**
+ * Desc fibonnaci series using recursive function
+ * @author Nandhini V
+ *Date 22/10/2020
+ */
+import java.util.Scanner;
+
+public class FibonnaciSeriesRecursive {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+
+	}
+
+}
